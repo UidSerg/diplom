@@ -8,9 +8,9 @@ import textwrap
 import pandas as pd
 
 # Замените TOKEN на токен вашего бота
-TOKEN = '6144392051:AAGya9j0Av25ZfF8nAydFxV1jq_FSIhjzMU'
+TOKEN = ''
 # Замените CHAT_ID на ID вашего чата или канала
-CHAT_ID = '-1002147525149'
+CHAT_ID = ''
 
 """
 async def send_message_to_telegram(price_comparison_list):
